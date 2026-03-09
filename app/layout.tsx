@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Gal Moussan — Full-Stack Developer',
+  title: 'Gal Moussan — Tech Lead & Full-Stack Developer',
   description:
-    'Gal Moussan is a full-stack developer building fast, accessible, and beautifully crafted digital experiences for the web.',
+    'Gal Moussan is a tech lead and full-stack developer building CRM systems, web applications, and automation tools for startups.',
 }
 
 export default function RootLayout({

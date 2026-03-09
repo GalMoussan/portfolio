@@ -44,11 +44,11 @@ export default function Home() {
                 <a href="/">Gal Moussan</a>
               </h1>
               <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-                Full-Stack Developer
+                Tech Lead &amp; Full-Stack Developer
               </h2>
               <p className="mt-4 max-w-xs leading-normal">
-                I build fast, accessible, and beautifully crafted digital
-                experiences for the web.
+                I build CRM systems, web applications, and automation tools
+                for startups — from architecture to deployment.
               </p>
               <Nav />
             </div>
