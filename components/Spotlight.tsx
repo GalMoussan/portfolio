@@ -18,7 +18,7 @@ export default function Spotlight({ children }: { children: React.ReactNode }) {
     >
       <div
         ref={overlayRef}
-        className="pointer-events-none fixed inset-0 z-30 transition duration-300 lg:absolute"
+        className="pointer-events-none fixed inset-0 z-30 transition duration-300"
       />
       {children}
     </div>
