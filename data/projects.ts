@@ -34,7 +34,7 @@ export const projects: ProjectItem[] = [
   },
   {
     name: "2D Roguelite Beat 'em Up (Unity)",
-    url: 'https://github.com/galmoussan',
+    url: 'https://github.com/GalMoussan',
     description:
       "A 2D side-scrolling roguelite beat 'em up built in Unity. Features a cast of distinct characters with 14+ animation states each, procedural level design, and a full roster of original enemy monsters including vegetable-themed bosses.",
     image: '/images/projects/roguelite.png',
@@ -45,7 +45,7 @@ export const projects: ProjectItem[] = [
   },
   {
     name: 'AI Animation Prompt Library',
-    url: 'https://github.com/galmoussan',
+    url: 'https://github.com/GalMoussan',
     description:
       'A structured, template-based animation prompt library for AI image generation (SuperGrok). Covers 14+ animation states per character, with tested solutions for common issues like limb visibility, directional framing, and effect layering.',
     image: '/images/projects/promptlib.png',

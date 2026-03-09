@@ -130,7 +130,7 @@ export default function Home() {
                 </ul>
                 <div className="mt-12">
                   <a
-                    href="https://github.com/galmoussan"
+                    href="https://github.com/GalMoussan?tab=repositories"
                     target="_blank"
                     rel="noreferrer noopener"
                     aria-label="View Full Project Archive (opens in a new tab)"

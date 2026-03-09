@@ -15,7 +15,7 @@ export const experience: ExperienceItem[] = [
     ariaLabel: '2022 to Present',
     role: 'Freelance Full-Stack Developer',
     company: 'Self-Employed',
-    companyUrl: 'https://github.com/galmoussan',
+    companyUrl: 'https://github.com/GalMoussan',
     description:
       'Design and develop full-stack web applications and promotional websites for clients across multiple industries. Scope includes UI/UX planning, frontend development with React and Next.js, backend integrations, and deployment pipelines on Vercel and Netlify.',
     tags: ['React', 'Next.js', 'TypeScript', 'Node.js', 'Tailwind CSS', 'Vercel'],

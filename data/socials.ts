@@ -6,11 +6,11 @@ export interface Social {
 export const socials: Social[] = [
   {
     label: 'GitHub',
-    url: 'https://github.com/galmoussan',
+    url: 'https://github.com/GalMoussan',
   },
   {
     label: 'LinkedIn',
-    url: 'https://linkedin.com/in/galmoussan',
+    url: 'https://www.linkedin.com/in/galmoussan97/',
   },
   {
     label: 'Twitter',
