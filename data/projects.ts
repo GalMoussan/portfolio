@@ -22,6 +22,28 @@ export const projects: ProjectItem[] = [
     stars: null,
   },
   {
+    name: 'Bitjourney — Crypto Education Academy',
+    url: 'https://bitjourney.co/en/home/',
+    description:
+      'A multi-page educational platform for blockchain and cryptocurrency instruction. Features live crypto price tickers, animated sections, customized learning path flows, and a security-focused services showcase. Built with WordPress and Elementor with custom styling.',
+    image: '/images/projects/bitjourney.png',
+    imageAlt: 'Screenshot of Bitjourney crypto education website',
+    tags: ['WordPress', 'Elementor', 'CSS', 'Web Design'],
+    links: [],
+    stars: null,
+  },
+  {
+    name: 'TelStudy — Minimalist Quiz Tool',
+    url: 'https://tel-study.vercel.app',
+    description:
+      'A precision learning quiz application with Google authentication, dark mode UI, and a clean dashboard for managing study sessions. Built with Next.js and Tailwind CSS, focused on reducing cognitive load during learning.',
+    image: '/images/projects/telstudy.png',
+    imageAlt: 'Screenshot of TelStudy quiz application',
+    tags: ['Next.js', 'Tailwind CSS', 'TypeScript', 'Auth'],
+    links: [],
+    stars: null,
+  },
+  {
     name: 'Forever Aloe Vera — Promotional Website',
     url: 'https://galmoussan.github.io/forever-aloe',
     description:
