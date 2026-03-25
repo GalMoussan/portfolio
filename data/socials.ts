@@ -12,8 +12,4 @@ export const socials: Social[] = [
     label: 'LinkedIn',
     url: 'https://www.linkedin.com/in/galmoussan97/',
   },
-  {
-    label: 'Twitter',
-    url: 'https://twitter.com/galmoussan',
-  },
 ]
